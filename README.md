@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### The demo of my first front-end project with Vanilla JS :sunglasses:
+https://user-images.githubusercontent.com/60959735/185286691-9a541cb8-e173-465b-9603-350e220b3201.MP4
+
+
+
+
 <!--
 **Shawn-Xingshi-He/Shawn-Xingshi-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
