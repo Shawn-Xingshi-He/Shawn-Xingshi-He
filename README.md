@@ -3,7 +3,7 @@
 1. #### [Vanilla JS] The demo of my first front-end project with Vanilla JS :sunglasses:
 https://user-images.githubusercontent.com/60959735/185286691-9a541cb8-e173-465b-9603-350e220b3201.MP4
 
-2. #### [ReactJS] The site of a small task about showing and searching items :star_struck: [click here](https://shawn-xingshi-he.github.io/Task_resonate/)
+2. #### [ReactJS] The site of a small task about showing and searching items :star_struck: [click here](https://shawn-xingshi-he.github.io/task_resonate/)
 
 3. #### [ReactJS] The site of Tic-tac-toe :hugs: [click here to play](https://shawn-xingshi-he.github.io/tic-tac-toe/)
 
