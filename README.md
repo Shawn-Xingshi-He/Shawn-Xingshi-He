@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-1. ### *`[Vanilla JS]`* The demo of my first front-end project using Vanilla JS :sunglasses:
+### :triangular_flag_on_post: 1. *`[VanillaJS]`* The demo of my first front-end project using Vanilla JS :sunglasses:
 https://user-images.githubusercontent.com/60959735/185286691-9a541cb8-e173-465b-9603-350e220b3201.MP4
 
-2. ### *`[ReactJS / Framer Motion]`* The site of a small task about showing and searching items :star_struck: [click here](https://shawn-xingshi-he.github.io/task_resonate/)
+### :triangular_flag_on_post: 2. *`[ReactJS / FramerMotion]`* The site of a small task about showing and searching items [click here:star_struck:](https://shawn-xingshi-he.github.io/task_resonate/)
 
-3. ### *`[ReactJS / CSSTransition]`* A little game: [Tic-tac-toe](https://shawn-xingshi-he.github.io/tic-tac-toe/):hugs: 
+### :triangular_flag_on_post: 3. *`[ReactJS / CSSTransition]`* A little game: [Tic-tac-toe:hugs: ](https://shawn-xingshi-he.github.io/tic-tac-toe/)
 
-4. ### *`[ReacJS / MUI / YouTube Data API]`* I built a small YouTube website where you can search youtube videos from [here](https://shawn-xingshi-he.github.io/smallyoutube/):partying_face: _(tip: refresh the page if nothing showing in the window)_
+### :building_construction: 4. *`[ReacJS / MUI / YouTube Data API]`* I built a small YouTube website where you can search youtube videos from [here:partying_face:](https://shawn-xingshi-he.github.io/smallyoutube/)
 
+### :building_construction: 5. *`[ReactJS / TailwindCSS]`* A responsive website using TailwindCSS [click here:mag:](https://shawn-xingshi-he.github.io/tailwindcss/)
 
 
 <!--
