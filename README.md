@@ -1,6 +1,6 @@
 ## _Hi there 👋 WELCOME TO SHAWN'S PORTFOLIOS_
 
-# :boom: BIG NEWS: My personal website is under construction, wanna take a look? Click here !
+# :boom: BIG NEWS: My personal website is under construction, wanna take a look? [Click here](https://shawnxsh.github.io/mywebsite) !
 
 * ### :triangular_flag_on_post: *`[ReactJS/FramerMotion/TailwindCSS]`* Event creating website [click here:partying_face:](https://shawnxsh.github.io/envited/)
 
